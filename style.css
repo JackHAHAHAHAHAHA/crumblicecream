@@ -56,10 +56,136 @@ h2{
 }
 .one:hover{
     background-color: #FFF8AC;
-
 }
-.p{
+.pepper{
+    margin-left:150px;
+    font-size: 40px;
+}
+.pepperr{
+    position: relative;
+    top:-40px;
+    margin-left:150px;
+    font-size: 40px;
+}
+.aoa{
+    border-radius: 50px;
+    margin-left: 300px;
+    background-color: #D2FF57;
+    border: 10px solid #95FF00;
+    font-size: 30px;
+    padding: 10px;
+}
+.two{
     display: flex;
-    flex-direction: none;
+    flex-direction: row;
+    transition: 0.2s ease-in;
 }
-    
+.two:hover{
+    background-color: #FFFFFF;
+}
+.ppepper{
+    font-size: 40px;
+}
+.ppepperr{
+    position: relative;
+    top:-40px;
+    font-size: 40px;
+}
+.oao{
+    border-radius: 50px;
+    background-color: #FFFFFF;
+    border: 10px solid #000000;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: 120px;
+}
+.htwoo{
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    margin-left: 200px;
+    font-size: 50px;
+}
+.iimg{
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    flex-direction: row;
+    margin-left: 500px;
+}
+.img{
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    flex-direction: row;
+}
+.hhtwo{
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    margin-left: 400px;
+    font-size: 50px;
+}
+.onee{
+    display: flex;
+    flex-direction: row;
+    transition: 0.2s ease-in;
+}
+.onee:hover{
+    background-color: #AA0000;
+}
+.pepperrr{
+    font-size: 40px;
+}
+.ppepperrrr{
+    position: relative;
+    top:-40px;
+    font-size: 40px;
+}
+.aoao{
+    border-radius: 50px;
+    margin-left: 50px;
+    background-color: #FF0000;
+    border: 10px solid #710000;
+    font-size: 30px;
+    padding: 10px;
+}
+.aoaoa{
+    border-radius: 50px;
+    margin-left: 50px;
+    background-color: #FBA7FF;
+    border: 10px solid #F651FF;
+    font-size: 30px;
+    padding: 10px;
+}
+.twoo{
+    display: flex;
+    flex-direction: row;
+    transition: 0.2s ease-in;
+}
+.twoo:hover{
+    background-color: #ED79FF;
+}
+.htwooo{
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    margin-left: 200px;
+    font-size: 30px;
+}
+footer p{
+    font-size: 50px;
+    text-align: center;
+}
+footer{
+    background-color: #EE00FF;
+    padding: 100px;
+    transition: 0.2s ease-in;
+}
+footer:hover{
+    background-color:pink ;
+}
+a{
+    color: #000000;
+    text-decoration: none;
+}
