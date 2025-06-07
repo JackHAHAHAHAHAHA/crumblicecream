@@ -1,3 +1,4 @@
+
 .cursor{
     animation: move 1s infinite alternate;
     transition: width .3s, heigth .3s;
@@ -188,4 +189,61 @@ footer:hover{
 a{
     color: #000000;
     text-decoration: none;
+}
+.aoaoa{
+    border-radius: 50px;
+    margin-left: 50px;
+    background-color: #FBA7FF;
+    border: 10px solid #F651FF;
+    font-size: 30px;
+    padding: 10px;
+}
+.hhtwoo{
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    margin-left: 400px;
+    font-size: 50px;
+}
+.oneee{
+    display: flex;
+    flex-direction: row;
+    transition: 0.2s ease-in;
+}
+.oneee:hover{
+    background-color: #37aefd;
+}
+.aoaoao{
+    border-radius: 50px;
+    margin-left: 50px;
+    background-color: #1cebe0;
+    border: 10px solid #001aff;
+    font-size: 30px;
+    padding: 10px;
+}
+.aoaoaoa{
+    border-radius: 50px;
+    margin-left: 50px;
+    background-color: #000000;
+    border: 10px solid #ffffff;
+    font-size: 30px;
+    padding: 10px;
+    color: white;
+}
+.hhtwooo{
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    margin-left: 200px;
+    font-size: 30px;
+}
+.twooo{
+    display: flex;
+    flex-direction: row;
+    transition: 0.2s ease-in;
+    color: #000000;
+}
+.twooo:hover{
+    background-color: #000000;
+    color: #FFFFFF;
 }
